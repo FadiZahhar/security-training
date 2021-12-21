@@ -18,37 +18,34 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 2. Pagination and Pre-fetching
+## 2. Cross-Site Scripting Attack
 
-### 1 Intro to Code Quizzes
-<iframe src="https://player.vimeo.com/video/654556765" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Introduction
+<iframe src="https://player.vimeo.com/video/658582922" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Code Quiz! Create Query for Blog Comments
-<iframe src="https://player.vimeo.com/video/654556870" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 How XSS Attack Works
+<iframe src="https://player.vimeo.com/video/658583730" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 Query Keys
-<iframe src="https://player.vimeo.com/video/654557055" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 Attack 1 Add Friend
+<iframe src="https://player.vimeo.com/video/658585451" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 4 Pagination
-<iframe src="https://player.vimeo.com/video/654557206" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 4 Attack 2 Modify Profile
+<iframe src="https://player.vimeo.com/video/658587930" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 5 Pre-fetching Data
-<iframe src="https://player.vimeo.com/video/654557347" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 5 Writing Self-Propagating XSS Worm
+<iframe src="https://player.vimeo.com/video/658589242" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 6 isLoading vs isFetching
-<iframe src="https://player.vimeo.com/video/654557505" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 6 Countermeasures
+<iframe src="https://player.vimeo.com/video/658591005" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 7 Intro to Mutations
-<iframe src="https://player.vimeo.com/video/654557647" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 7 CSP Content Security Policy
+<iframe src="https://player.vimeo.com/video/658592189" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 8 Delete Post with useMutation
-<iframe src="https://player.vimeo.com/video/654557724" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 8 Attack Generalization
+<iframe src="https://player.vimeo.com/video/658594074" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 9 Code Quiz! Mutation to Update Post Title
-<iframe src="https://player.vimeo.com/video/654557898" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 10 Summary React Query Basics
-<iframe src="https://player.vimeo.com/video/654558006" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 9 Review and Summary
+<iframe src="https://player.vimeo.com/video/658596287" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 
