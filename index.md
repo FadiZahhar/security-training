@@ -49,34 +49,28 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 
 
 
-## 3. Infinite Queries for Loading
+## 3. SQL Injection Attack
 
-### 1 Introduction to Infinite Scroll
-<iframe src="https://player.vimeo.com/video/654558090" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Introduction
+<iframe src="https://player.vimeo.com/video/658597045" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Code Quiz! Set up Infinite SWAPI for React Query
-<iframe src="https://player.vimeo.com/video/654558213" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Brief Tutorial on SQL
+<iframe src="https://player.vimeo.com/video/658598219" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 Intro to useInfiniteQuery
-<iframe src="https://player.vimeo.com/video/654558373" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 SQL Injection Against SELECT Statement
+<iframe src="https://player.vimeo.com/video/658600865" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 4 Infinite Scroll Diagram
-<iframe src="https://player.vimeo.com/video/654558521" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 4 Modify Database Using SQL Injection
+<iframe src="https://player.vimeo.com/video/658603207" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 5 Write useInfiniteQuery Call
-<iframe src="https://player.vimeo.com/video/654558635" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 5 Similarity with Other Code Injection Attacks
+<iframe src="https://player.vimeo.com/video/658614329" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 6 InfiniteScroll Component
-<iframe src="https://player.vimeo.com/video/654558816" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 6 Countermeasure Prepared Statement
+<iframe src="https://player.vimeo.com/video/658621456" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 7 useInfiniteQuery Fetching and Error states
-<iframe src="https://player.vimeo.com/video/654559024" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 8 Code Quiz! Infinite Species
-<iframe src="https://player.vimeo.com/video/654559187" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 9 Summary Infinite Scroll
-<iframe src="https://player.vimeo.com/video/654559353" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 7 Review Questions and Summary
+<iframe src="https://player.vimeo.com/video/658631045" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ## 4. React Query in Larger App Set
