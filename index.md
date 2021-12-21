@@ -73,38 +73,28 @@ Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://j
 <iframe src="https://player.vimeo.com/video/658631045" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
-## 4. React Query in Larger App Set
+## 4. Clickjacking Attack
 
-### 1 Intro to Lazy Days Spa App
-<iframe src="https://player.vimeo.com/video/654559408" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 1 Introduction
+<iframe src="https://player.vimeo.com/video/658639798" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 2 Lazy Days Spa App Code Orientation
-<iframe src="https://player.vimeo.com/video/654559527" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 2 Iframe and its Properties
+<iframe src="https://player.vimeo.com/video/658641339" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 3 Install and set up React Query
-<iframe src="https://player.vimeo.com/video/654559650" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 3 Clickjacking Attacks Using Transparent Iframe
+<iframe src="https://player.vimeo.com/video/658645428" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 4 Custom Query Hook useTreatments
-<iframe src="https://player.vimeo.com/video/654559823" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 4 Clickjacking Attacks Using Small-Size Iframe
+<iframe src="https://player.vimeo.com/video/658650549" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 5 Fallback Data
-<iframe src="https://player.vimeo.com/video/654559949" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 5 Countermeasures
+<iframe src="https://player.vimeo.com/video/658654348" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 6 Centralized Fetching indicator with useIsFetching
-<iframe src="https://player.vimeo.com/video/654560021" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+### 6 Iframe's Security Features
+<iframe src="https://player.vimeo.com/video/658659510" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
-### 7 onError Handler for useQuery
-<iframe src="https://player.vimeo.com/video/654560108" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 8 onError Default for Query Client
-<iframe src="https://player.vimeo.com/video/654560251" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 9 Code Quiz! Custom Hook for useStaff
-<iframe src="https://player.vimeo.com/video/654560369" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
-### 10 Summary Larger App Setup, Centralization, Custom Hooks
-<iframe src="https://player.vimeo.com/video/654560479" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
-
+### 7 Summary
+<iframe src="https://player.vimeo.com/video/658667700" width="640" height="564" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
 
 ### Markdown
